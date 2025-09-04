@@ -4,14 +4,14 @@ import 'package:todo_app/features/todos/widgets/reuse_card.dart';
 
 import 'add_new_todo_screen.dart';
 
-class HomeScreen extends StatefulWidget {
-   HomeScreen({super.key});
+class TodoListScreen extends StatefulWidget {
+   TodoListScreen({super.key});
 
   @override
-  State<HomeScreen> createState() => _HomeScreenState();
+  State<TodoListScreen> createState() => _TodoListScreen();
 }
 
-class _HomeScreenState extends State<HomeScreen> {
+class _TodoListScreen extends State<TodoListScreen> {
 
 
   @override
