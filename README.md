@@ -1,20 +1,29 @@
-<<<<<<< HEAD
-# todo_app
+# Flutter Firebase Todo App
 
-A new Flutter project.
+A simple **ToDo application** built with **Flutter** and **Firebase Firestore**.  
+Users can:
+- Add new todos
+- View all todos in real-time
+- Delete todos
 
-## Getting Started
+## 🚀 Features
+- Flutter + Firebase Firestore integration
+- Real-time database updates with StreamBuilder
+- Simple UI design with Material Components
 
-This project is a starting point for a Flutter application.
+## 📂 Project Structure
+lib/
+ ┣ features/
+ ┃ ┗ todos/
+ ┃   ┣ screens/
+ ┃   ┃ ┣ home_screen.dart
+ ┃   ┃ ┗ add_new_todo_screen.dart
+ ┃   ┗ widgets/
+ ┃     ┗ reuse_card.dart
+ ┣ main.dart
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# todo-app-firebase
->>>>>>> 7f907345cb7832d531a3bce08c7d3fe87644e56f
+## 🔧 Setup
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Tanvir-dev20/todo-app-firebase.git
