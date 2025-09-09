@@ -25,10 +25,10 @@ lib/
 ## 📸 Screenshots
 
 ### 🏠 ToDo List Screen
-![ToDo List Screen](assets/screenshots/todo_list_screen.png)
+![ToDo List Screen](assets/screenshorts/todo_list_screen.png)
 
 ### ➕ Add New Todo
-![Add Todo](assets/screenshots/add_todo_screen.png)
+![Add New Todo](assets/screenshorts/add_todo_screen.png)
 
 
 
