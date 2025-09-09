@@ -25,10 +25,10 @@ lib/
 ## 📸 Screenshots
 
 ### 🏠 ToDo List Screen
-![ToDo List Screen](assets/screenshorts/todo_list_screen.png)
+<img src="assets/screenshots/todo_list_screen.png" alt="ToDo List Screen" width="280" height="550"/>
 
 ### ➕ Add New Todo
-![Add New Todo](assets/screenshorts/add_todo_screen.png)
+<img src="assets/screenshots/add_todo_screen.png" alt="Add Todo" width="280" height="550"/>
 
 
 
