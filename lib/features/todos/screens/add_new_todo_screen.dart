@@ -2,6 +2,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 
 import 'package:flutter/material.dart';
 
+
 class AddNewTodoScreen extends StatefulWidget {
   const AddNewTodoScreen({super.key});
 
@@ -34,7 +35,9 @@ class _AddNewTodoScreenState extends State<AddNewTodoScreen> {
       backgroundColor: Colors.deepPurple[200],
       appBar: AppBar(
         backgroundColor: Colors.deepPurple,
-        title: Text('Add new todo'),
+        title: Text('Add new todo',style: TextStyle(
+          color: Colors.white
+        ),),
       centerTitle: true,),
       body: Padding(
         padding: const EdgeInsets.all(16),
