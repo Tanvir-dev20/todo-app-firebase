@@ -22,6 +22,15 @@ lib/
  ┃     ┗ reuse_card.dart
  ┣ main.dart
 
+## 📸 Screenshots
+
+### 🏠 ToDo List Screen
+![ToDo List Screen](assets/screenshots/todo_list_screen.png)
+
+### ➕ Add New Todo
+![Add Todo](assets/screenshots/add_todo_screen.png)
+
+
 
 ## 🔧 Setup
 1. Clone this repository:
